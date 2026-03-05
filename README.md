@@ -1,82 +1,162 @@
-# 📊 Atliq Hardware Sales & Finance Analysis (Excel Project)
+# 📊 Sales & Finance Analytics Project
 
-## 🔎 Project Overview
+## 📌 Project Overview
 
-This project focuses on analyzing sales and financial data of Atliq Hardware using Excel tools like Power Query, Power Pivot, and DAX.
+This project focuses on analyzing **Sales and Financial performance** for Atliq Hardware using business data.
 
-The objective was to build dynamic reports that help management track performance, profitability, and market trends.
-
----
-
-# 📌 Sales Analytics Reports
-
-## 🎯 Project Objectives
-
-1. Create a [Customer Performance Report](https://github.com/Aniket-analyse/atliq-hardware-sales-analysis/blob/main/Customer%20Performance%20Report.pdf)
-
-2. Conduct a comparison between [Market Performance vs Sales Targets](https://github.com/Aniket-analyse/atliq-hardware-sales-analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+The objective is to generate **actionable insights that support data-driven decision making** and help businesses understand their sales performance, market trends, and financial health.
 
 ---
 
-## 📈 Key Business Insights
+# 🏢 About Atliq Hardware
 
-- Identified top revenue-generating customers
-- Evaluated Year-over-Year (YoY) growth trends
-- Highlighted markets missing sales targets
+Atliq Hardware is a global company that manufactures and sells hardware products such as:
 
----
+* Personal Computers
+* Computer Accessories
+* Printers
+* Peripheral Devices
 
-# 💰 Finance Reports
+The company distributes products through retail and online platforms including:
 
-## 🎯 Project Objectives
-
-1. Created Profit & Loss (P&L) reports by:
-
-   - [Fiscal Year](https://github.com/Aniket-analyse/atliq-hardware-sales-analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
-   - [Months](https://github.com/Aniket-analyse/atliq-hardware-sales-analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)
-
-2. Created Profit & Loss (P&L) report by:
-
-   - [Markets](https://github.com/Aniket-analyse/atliq-hardware-sales-analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+* Croma
+* Best Buy
+* Amazon
+* Flipkart
 
 ---
 
-# 🛠 Tools & Technical Skills Used
+# 🎯 Problem Statement
 
-- Microsoft Excel
-- Power Query (ETL & Data Transformation)
-- Power Pivot (Data Modeling)
-- DAX Measures & Calculated Columns
-- Pivot Tables
-- Dashboard Development
+Develop an **interactive Business Intelligence Sales & Finance Analytics Report** to analyze:
 
----
+* Sales growth
+* Market performance
+* Product demand
+* Financial trends
+* Profitability by region
 
-# 🧠 Technical Implementation
-
-- Performed ETL process (Extract, Transform, Load)
-- Created a custom Date Table using Power Query
-- Derived Fiscal Year, Quarter & Month
-- Built Data Model relationships in Power Pivot
-- Created DAX measures for:
-  - Revenue
-  - Gross Margin %
-  - YoY Growth
-  - Target Achievement %
+This helps organizations make **strategic and data-driven decisions**.
 
 ---
 
-# 💡 Business Impact
+# 📊 Sales Analysis
 
-- Enabled performance monitoring across customers and markets
-- Supported financial planning & budgeting decisions
-- Helped identify growth opportunities and underperforming segments
+### Key Reports
+
+1. Customer Net Sales Performance Report
+2. Market Performance vs Target Analysis
+3. Top 10 Products with Highest Sales Growth
+4. Division-wise Sales Performance
+5. Top 5 and Bottom 5 Products by Sales Volume
+6. New Product Introductions in 2021
+7. Top 5 Revenue-Generating Countries
 
 ---
 
-# 🚀 Key Learnings
+# 💰 Finance Analysis
 
-- Applied Excel as a Business Intelligence tool
-- Understood relationship between Sales & Finance reports
-- Improved dashboard storytelling & stakeholder reporting
-- Strengthened data modeling & KPI calculation skills
+### Key Reports
+
+1. Annual Profit & Loss (P&L) Report
+2. Monthly P&L Comparison
+3. Market-Specific Profitability Analysis
+4. Quarterly Gross Margin % by Region
+
+---
+
+# 📈 Key Insights
+
+## Revenue Growth
+
+Revenue increased significantly:
+
+* **2019:** $87.5M
+* **2020:** $196.7M
+* **2021:** $598.9M
+
+This represents extremely rapid business growth.
+
+---
+
+## Top Customers (2021)
+
+* Amazon — $82.1M
+* Atliq Exclusive — $61.1M
+* Atliq eStore — $53.0M
+
+---
+
+## Top Markets
+
+| Country     | Revenue |
+| ----------- | ------- |
+| India       | $161.3M |
+| USA         | $87.8M  |
+| South Korea | $49.0M  |
+| Canada      | $35.1M  |
+| UK          | $34.2M  |
+
+These top 5 countries generated **$367.2M in revenue**.
+
+---
+
+## Product Insights
+
+### Top Volume Products
+
+* AQ Master Wired x1 Mouse – 4.2M units
+* AQ Master Wireless x1 Mouse – 4.1M units
+* AQ Gamers Mouse – 4.0M units
+
+### Highest Revenue Product
+
+AQ Electron 4 3600 Desktop Processor – $19.4M
+
+---
+
+## Profitability Analysis
+
+Gross Margin declined as revenue increased:
+
+| Year | Gross Margin |
+| ---- | ------------ |
+| 2019 | 41.43%       |
+| 2020 | 37.28%       |
+| 2021 | 36.43%       |
+
+This indicates increased costs or pricing pressure during scaling.
+
+---
+
+# 📊 Seasonal Trends
+
+Sales showed strong seasonal patterns:
+
+* Strong performance in **Q2 (Oct–Dec)**
+* Sales drop observed in **March 2020** due to global disruptions
+
+---
+
+# 🛠 Tools Used
+
+* Microsoft Excel
+* Data Analysis
+* Business Intelligence
+* Financial Analysis
+* Data Storytelling
+
+---
+
+# 📌 Project Outcome
+
+This project demonstrates how **Sales and Financial Data Analysis** can help businesses:
+
+* Identify growth opportunities
+* Evaluate market performance
+* Monitor profitability trends
+* Support strategic decision making
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
